@@ -1,0 +1,5 @@
+CREATE TABLE test_employee(
+  empno number(5) ,
+  ename varchar2(100),
+  
+);
